@@ -1,3 +1,2 @@
-person:
-  age: 9
-  nickname: dev-default
+application:
+  info: "dev common"
